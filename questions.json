@@ -1,0 +1,113 @@
+[
+    {
+      "questionNo": "Q1",
+      "question": "Simplify :<br><img width='90%' src='./assests/images/16.png'>",
+      "options": [
+        "./assests/optionImg/77.jpg",
+        "./assests/optionImg/78.jpg",
+        "./assests/optionImg/79.jpg",
+        "./assests/optionImg/80.jpg"
+      ],
+      "correct": 2
+    },
+    {
+      "questionNo": "Q2",
+      "question": "Choose the correct option after performing the operations on the given modelled fractions.<br><img width='90%' src='./assests/images/17.png'>",
+      "options": [
+        "./assests/optionImg/81.jpg",
+        "./assests/optionImg/82.jpg",
+        "./assests/optionImg/83.jpg",
+        "./assests/optionImg/84.jpg"
+      ],
+      "correct": 1
+    },
+    {
+      "questionNo": "Q3",
+      "question": "Calculate :<br><img width='90%' src='./assests/images/18.png'>",
+      "options": [
+        "./assests/optionImg/85.jpg",
+        "./assests/optionImg/86.jpg",
+        "./assests/optionImg/87.jpg",
+        "./assests/optionImg/88.jpg"
+      ],
+      "correct": 0
+    },
+    {
+      "questionNo": "Q4",
+      "question": "Which of the following is the product of all the like fractions from the given list?<br><img width='90%' src='./assests/images/19.png'>",
+      "options": [
+        "./assests/optionImg/89.jpg",
+        "./assests/optionImg/90.jpg",
+        "./assests/optionImg/91.jpg",
+        "./assests/optionImg/92.jpg"
+      ],
+      "correct": 2
+    },
+    {
+      "questionNo": "Q5",
+      "question": "Which of the following is the product of all the improper fractions from the given list?<br><img width='90%' src='./assests/images/20.png'>",
+      "options": [
+        "./assests/optionImg/93.jpg",
+        "./assests/optionImg/94.jpg",
+        "./assests/optionImg/95.jpg",
+        "./assests/optionImg/96.jpg"
+      ],
+      "correct": 3
+    },
+    {
+      "questionNo": "Q6",
+      "question": "Choose the correct option after performing the operations on the given modelled fractions.<br><img width='90%' src='./assests/images/21.png'>",
+      "options": [
+        "./assests/optionImg/97.jpg",
+        "./assests/optionImg/98.jpg",
+        "./assests/optionImg/99.jpg",
+        "./assests/optionImg/100.jpg"
+      ],
+      "correct": 2
+    },
+    {
+      "questionNo": "Q7",
+      "question": "Solve :<br><img width='90%' src='./assests/images/22.png'>",
+      "options": [
+        "./assests/optionImg/101.jpg",
+        "./assests/optionImg/102.jpg",
+        "./assests/optionImg/103.jpg",
+        "./assests/optionImg/104.jpg"
+      ],
+      "correct": 1
+    },
+    {
+      "questionNo": "Q8",
+      "question": "Which of the following is the result when all the improper fractions from the given list are divided?<br><img width='90%' src='./assests/images/23.png'>",
+      "options": [
+        "./assests/optionImg/105.jpg",
+        "./assests/optionImg/106.jpg",
+        "./assests/optionImg/107.jpg",
+        "./assests/optionImg/108.jpg"
+      ],
+      "correct": 0
+    },
+    {
+      "questionNo": "Q9",
+      "question": "Solve :<br><img width='90%' src='./assests/images/24.png'>",
+      "options": [
+        "./assests/optionImg/109.jpg",
+        "./assests/optionImg/110.jpg",
+        "./assests/optionImg/111.jpg",
+        "./assests/optionImg/112.jpg"
+      ],
+      "correct": 3
+    },
+    {
+      "questionNo": "Q10",
+      "question": "Which of the following is the result when all the like fractions from the given list are divided?<br><img width='90%' src='./assests/images/25.png'>",
+      "options": [
+        "./assests/optionImg/113.jpg",
+        "./assests/optionImg/114.jpg",
+        "./assests/optionImg/115.jpg",
+        "./assests/optionImg/116.jpg"
+      ],
+      "correct": 0
+    }
+  ]
+  
